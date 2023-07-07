@@ -46,6 +46,26 @@ My major is **Mathematics**.<br> I'm studying **frontend development**. <br>
 ![figma badge](https://img.shields.io/badge/-Figma-%23F7DF1E?style=flat-square&logo=Figma&logoColor=white&color=F24E1E)
 <br>
 
+<h3 align="center"> 🎓 My degree 🎓 </h3>
+  
+|입학년월|졸업년월|학위|전공|
+|---|---|---|---|
+|2017.03|2023.02|학사|수학|
+|2017.03|2023.02|학사|금융공학전공|
+
+<h3 align="center"> 💪🏻 Project 💪🏻 </h3>
+
+|교육명|주최|시작일|종료일|
+|---|---|---|---|
+|2023 캠퍼스 SW 아카데미 TABA 2기|과학기술정보통신부, IITP, TmaxTibero, 단국대학교, CCCR|2023.03|2023.06|
+|스파르타코딩클럽 내일배움단 웹개발, 앱개발|팀스파르타주식회사|2022.04|2023.05|
+
+<!--<h3 align="center"> Personal Project </h3>
+
+|교육명|주최|시작일|종료일|
+|---|---|---|---|
+|스파르타코딩클럽 내일배움단 웹개발, 앱개발|스파르타코딩클럽|2022.04|2023.05|-->
+
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=he0o0nje&show_icons=true&theme=radical)-->
 
 <!--![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:614385,100:516395)-->
