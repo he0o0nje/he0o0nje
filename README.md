@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 ### :wave: Hi! I'm Heon Je :wave:
 My major is **Mathematics**.<br> I'm studying **frontend development**. <br>
 
+<Strong>📧Email📧</Strong><br>dudwogjswp@naver.com
+
 ### 🛠️ Skills 🛠️
 **[ Programming Languages ]**<br>
 ![javascript badge](https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
