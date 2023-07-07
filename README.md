@@ -44,6 +44,6 @@ My major is **Mathematics**.<br> I'm studying **frontend development**. <br>
 ![figma badge](https://img.shields.io/badge/-Figma-%23F7DF1E?style=flat-square&logo=Figma&logoColor=white&color=F24E1E)
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=he0o0nje&show_icons=true&theme=radical)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=he0o0nje&show_icons=true&theme=radical)-->
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:614385,100:516395)
