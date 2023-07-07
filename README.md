@@ -24,8 +24,8 @@ My major is **Mathematics**.<br> I'm studying **frontend development**. <br>
 
 ### 🛠️ Skills 🛠️
 **[ Programming Languages ]**<br>
-![javascript badge](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
+![javascript badge](https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![python badge](https://img.shields.io/badge/-Python-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
 <br>
 **[ Frontend ]**<br>
 ![HTML5 badge](https://img.shields.io/badge/-HTML5-%23F7DF1E?style=flat-square&logo=HTML5&logoColor=white&color=E34F26)
