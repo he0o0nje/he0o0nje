@@ -69,4 +69,4 @@ My major is **Mathematics**.<br> I'm studying **frontend development**. <br>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=he0o0nje&show_icons=true&theme=radical)-->
 
-<!--![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:614385,100:516395)-->
+<![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:614385,100:516395)
