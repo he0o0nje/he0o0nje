@@ -38,6 +38,7 @@ My major is **Mathematics**.<br> I'm studying **frontend development**. <br>
 ![django badge](https://img.shields.io/badge/-Django-%23F7DF1E?style=flat-square&logo=Django&logoColor=white&color=092E20)
 ![node badge](https://img.shields.io/badge/-Node.js-%23F7DF1E?style=flat-square&logo=Node.js&logoColor=white&color=339933)
 ![mysql badge](https://img.shields.io/badge/-MySQL-%23F7DF1E?style=flat-square&logo=MySQL&logoColor=white&color=4479A1)
+![moongse badge](https://img.shields.io/badge/-MongoDB-%23F7DF1E?style=flat-square&logo=MongoDB&logoColor=white&color=47A248)
 <br>
 **[ Design ]**<br>
 ![figma badge](https://img.shields.io/badge/-Figma-%23F7DF1E?style=flat-square&logo=Figma&logoColor=white&color=F24E1E)
