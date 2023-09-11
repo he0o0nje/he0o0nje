@@ -34,7 +34,7 @@ My major is **Mathematics**.<br> I'm studying **frontend development**. <br>
 ![CSS badge](https://img.shields.io/badge/-CSS3-%23F7DF1E?style=flat-square&logo=CSS3&logoColor=white&color=1572B6)
 ![React badge](https://img.shields.io/badge/-REACT-%23F7DF1E?style=flat-square&logo=React&logoColor=black&color=61DAFB)
 ![ReactNative badge](https://img.shields.io/badge/-ReactNative-%23F7DF1E?style=flat-square&logo=React&logoColor=white&color=007396)
-![Bootstrap badge](https://img.shields.io/badge/-Bootstrap-%23F7DF1E?style=flat-square&logo=Bootstrap&logoColor=white&color=7952B3)
+<!--![Bootstrap badge](https://img.shields.io/badge/-Bootstrap-%23F7DF1E?style=flat-square&logo=Bootstrap&logoColor=white&color=7952B3)-->
 <br>
 **[ Backend & DB & BaaS ]**<br>
 ![django badge](https://img.shields.io/badge/-Django-%23F7DF1E?style=flat-square&logo=Django&logoColor=white&color=092E20)
