@@ -34,7 +34,6 @@ My major is **Mathematics**.<br> I'm studying **frontend development**. <br>
 ![CSS badge](https://img.shields.io/badge/-CSS3-%23F7DF1E?style=flat-square&logo=CSS3&logoColor=white&color=1572B6)
 ![React badge](https://img.shields.io/badge/-REACT-%23F7DF1E?style=flat-square&logo=React&logoColor=black&color=61DAFB)
 ![ReactNative badge](https://img.shields.io/badge/-ReactNative-%23F7DF1E?style=flat-square&logo=React&logoColor=white&color=007396)
-<!--![Bootstrap badge](https://img.shields.io/badge/-Bootstrap-%23F7DF1E?style=flat-square&logo=Bootstrap&logoColor=white&color=7952B3)-->
 <br>
 **[ Backend & DB & BaaS ]**<br>
 ![django badge](https://img.shields.io/badge/-Django-%23F7DF1E?style=flat-square&logo=Django&logoColor=white&color=092E20)
@@ -54,10 +53,11 @@ My major is **Mathematics**.<br> I'm studying **frontend development**. <br>
 |2017.03|2023.02|학사|수학과|
 |2017.03|2023.02|학사|금융공학|
 
-<h3 align="center"> 💪🏻 Project 💪🏻 </h3>
+<h3 align="center"> 💪🏻 Education & Project 💪🏻 </h3>
 
 |교육명|주최|시작일|종료일|
 |---|---|---|---|
+|원티드 프리온보딩 프론트엔드/백엔드 챌린지|원티드|2023.09|2023.09|
 |RESAT 파밍챌린지 프론트엔드 개발자 2기|미니인턴|2023.07|2023.08|
 |프론트엔드 개발 및 실무프로젝트 구현|이젠컴퓨터아카데미|2023.07|2023.12|
 |2023 캠퍼스 SW 아카데미 TABA 2기|과학기술정보통신부, IITP, TmaxTibero, 단국대학교, CCCR|2023.03|2023.06|
@@ -69,6 +69,7 @@ My major is **Mathematics**.<br> I'm studying **frontend development**. <br>
 |---|---|---|---|
 |스파르타코딩클럽 내일배움단 웹개발, 앱개발|스파르타코딩클럽|2022.04|2023.05|-->
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=he0o0nje&show_icons=true&theme=radical)-->
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=he0o0nje&show_icons=true&theme=radical)
+![Bootstrap badge](https://img.shields.io/badge/-Bootstrap-%23F7DF1E?style=flat-square&logo=Bootstrap&logoColor=white&color=7952B3)-->
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:614385,100:516395)
