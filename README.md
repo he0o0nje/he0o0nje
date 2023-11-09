@@ -27,19 +27,20 @@ My major is **Mathematics**.<br> I'm studying **frontend development**. <br>
 ### 🛠️ Skills 🛠️
 **[ Programming Languages ]**<br>
 ![javascript badge](https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![typescript badge](https://img.shields.io/badge/-Typescript-%23F7DF1E?style=flat-square&logo=typeScript&logoColor=white&color=3178C6)
 ![python badge](https://img.shields.io/badge/-Python-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
 <br>
 **[ Frontend ]**<br>
 ![HTML5 badge](https://img.shields.io/badge/-HTML5-%23F7DF1E?style=flat-square&logo=HTML5&logoColor=white&color=E34F26)
 ![CSS badge](https://img.shields.io/badge/-CSS3-%23F7DF1E?style=flat-square&logo=CSS3&logoColor=white&color=1572B6)
-![React badge](https://img.shields.io/badge/-REACT-%23F7DF1E?style=flat-square&logo=React&logoColor=black&color=61DAFB)
-![ReactNative badge](https://img.shields.io/badge/-ReactNative-%23F7DF1E?style=flat-square&logo=React&logoColor=white&color=007396)
+![React badge](https://img.shields.io/badge/-REACT-%23F7DF1E?style=flat-square&logo=React&logoColor=skyblue&color=000000)
+![ReactNative badge](https://img.shields.io/badge/-ReactNative-%23F7DF1E?style=flat-square&logo=React&logoColor=skyblue&color=000000)
 <br>
 **[ Backend & DB ]**<br>
-![django badge](https://img.shields.io/badge/-Django-%23F7DF1E?style=flat-square&logo=Django&logoColor=white&color=092E20)
+![django badge](https://img.shields.io/badge/-Django-%23F7DF1E?style=flat-square&logo=Django&logoColor=white&color=0B3B0B)
 ![node badge](https://img.shields.io/badge/-Node.js-%23F7DF1E?style=flat-square&logo=Node.js&logoColor=white&color=339933)
 ![mysql badge](https://img.shields.io/badge/-MySQL-%23F7DF1E?style=flat-square&logo=MySQL&logoColor=white&color=4479A1)
-![moongse badge](https://img.shields.io/badge/-MongoDB-%23F7DF1E?style=flat-square&logo=MongoDB&logoColor=white&color=47A248)
+![MongoDB badge](https://img.shields.io/badge/-MongoDB-%23F7DF1E?style=flat-square&logo=MongoDB&logoColor=white&color=47A248)
 ![tibero badge](https://img.shields.io/badge/-TiberoDBMS-%23F7DF1E?style=flat-square&logo=TiberoDBMS&logoColor=white&color=0000A0)
 <br>
 **[ Design ]**<br>
