@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-### Hi! I'm Heon Je
 My major is **Mathematics**.<br> I'm studying **frontend development**. <br>
 
 <Strong>📧Email📧</Strong><br>dudwogjswp@naver.com
